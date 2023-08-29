@@ -1,0 +1,98 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+.them1{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 30%;
+
+}
+
+.them1 .sous-theme2{
+    height: 110%;
+    width: 60%;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
+.sous-theme4 button{
+    height: 40%;
+}
+.them1 .sous-theme1{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    left: 5%;
+    top: 70%;
+ 
+}
+.them1 .sous-theme3{
+    height: 10%;
+    width: 60%;
+    position: absolute;
+    left: 30%;
+    top: 110%;
+}
+.them1 .sous-theme4{
+
+    height: 20%;
+    width: 60%;
+    position: absolute;
+    left: 30%;
+    top: 130%;
+  
+}
+.them1 .sous-theme5{
+    height: 20%;
+    width: 60%;
+    position: absolute;
+    left: 30%;
+    top: 160%; 
+}
+.sous-theme5 .number1{
+   margin-right: 35%;
+}
+.sous-theme5 .number2{
+    margin-right: 35%;
+ }
+
+.sous-theme1 .bash{
+    padding-top: 20px;
+}
+.bash p {
+  padding-bottom: -10px;
+}
+
+ .them2{
+    height: 75%;
+    width: 100%;
+    margin-top: 75%;
+    position: absolute;
+    top: 30%;
+    background-color: rgba(225, 224, 224, 0.726);
+}
+.them3{
+    height: 40%;
+    width: 100%;
+
+ 
+}
+.them4{
+    height: 50%;
+    width: 75%;
+    position: absolute;
+    left: 20%;
+    top: 260%;
+  
+}
+.them5{
+    height: 60%;
+    width: 100%;
+    position: absolute;
+    top: 300%;
+    background-color: rgba(0, 0, 0, 0.296);
+  
+}
